@@ -1,0 +1,16 @@
+INSERT INTO registrations VALUES
+(1001, 1, 101, 85, SYSDATE);
+
+INSERT INTO registrations VALUES
+(1002, 1, 102, 90, SYSDATE);
+
+INSERT INTO registrations VALUES
+(1003, 2, 101, 75, SYSDATE);
+
+INSERT INTO registrations VALUES
+(1004, 2, 103, 68, SYSDATE);
+
+INSERT INTO registrations VALUES
+(1005, 3, 102, 55, SYSDATE);
+
+COMMIT;
